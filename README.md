@@ -18,9 +18,9 @@ Vision Transformers (ViT) represent a groundbreaking approach in computer vision
 The project uses a subset of the Food-101 dataset, focusing on 3 classes for efficient training and evaluation. The Food-101 dataset contains 101,000 images in total, with 1,000 images per food category.
 
 ### Classes Used:
-- Class 1
-- Class 2
-- Class 3
+- Pizza
+- Steak
+- Sushi
 
 ## Model Architecture
 
